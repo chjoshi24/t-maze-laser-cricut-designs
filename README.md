@@ -1,3 +1,6 @@
+This repository contains Adobe illustrator files
+
+
 This repository contains designs for T-mazes of different stem and arm lengths. 
 
 - You can use these files to make plexiglass T-mazes using a laser cutter, or you can make T-shaped paper cutouts using a Cricut machine.

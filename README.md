@@ -6,3 +6,7 @@ Notes:
 - Make sure to mention the laser cutting instructions. What is the stroke length of the line and to check the machine specifics to make sure the machine is cutting and not engraving (unless that is your goal). Add disclaimers and warnings for safety- to check laser power settings and talk to a professional.
 - Put a svg and Adobe Illustrator files that have single T-shapes and then put the ones with all the shapes together. Do .ai, .svg and .pdf files.
 - Add instructions for cricut- using construction paper setting for the blade sharpness and use regular mat (also write disclaimers and safety notes).
+
+
+Individual T-maze: 
+Stroke width: 0.072 pt (Check the threshold of the laser machine that you are using whether this stroke width is for engraving or for cutting). But generally, a larger stroke width is for engraving while a smaller one is for cutting.

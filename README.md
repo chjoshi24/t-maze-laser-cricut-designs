@@ -3,7 +3,7 @@
 This repository contains designs for T-mazes with different stem and arm lengths. You can use these files to make T-mazes from different materials (For example, Plexiglass/Acrylic, wood, or paper).
 You can make the T-maze using a laser cutter/engraver (Plexiglass recommended, as paper/cardboard may not be safe) or a Cricut machine (typically for papers or thick cardboards).
 
-Use case: I have used it to make plexiglass T-mazes using a laser cutter and cut T-shaped paper overlays using a Cricut machine for one of my PhD projects. Check out the pre-print from that project **[here](https://www.biorxiv.org/content/10.64898/2025.12.23.696297v1)**
+I have used these files to make plexiglass T-mazes with a laser cutter and to cut T-shaped paper overlays with a Cricut machine at the [CATalyst studios, University of Arizona](https://lib.arizona.edu/catalyst) for one of my PhD projects. Check out the pre-print from that project **[here](https://www.biorxiv.org/content/10.64898/2025.12.23.696297v1)**
 
 ## **Important notes about the files**
 * The stroke width (i.e., the line width) used for Adobe Illustrator files here is 0.072 pt. Typically, all laser cutting machines have a threshold stroke width, below which they cut the desired shape and above which they engrave (and therefore do not cut) the shape into the material. So, do check that stroke width for your machine and adjust that stroke width accordingly before proceeding. The Adobe Illustrator files are editable.
@@ -11,10 +11,14 @@ Use case: I have used it to make plexiglass T-mazes using a laser cutter and cut
   
 
 ## **Safety-related notes**
-Make sure to undergo the necessary training to operate the laser cutting, cricuit or any other machine that you are going to use; read and follow all the necessary safety instructions; and contact the relevant personnel who are in charge of the machine/facility for any questions.
+* Make sure to undergo the necessary training to operate the laser cutting, Cricuit, or any other machine that you are going to use.
+* Read and follow all the necessary safety instructions.
+* Contact the relevant personnel who are in charge of the machine/facility for any questions.
+
+Some resources to read about safety-related instructions:
+* https://www.xometry.com/resources/sheet/laser-cutting-safety-precautions/#:~:text=You%20should%20also:%20*%20Mount%20a%20fire,toxic%20fumes%20when%20struck%20by%20the%20laser
+* https://lib.arizona.edu/tutorials/laser-cutter/#/lessons/nAqTl_6AsEEBo3dwhzNGxktSMvy89lAp
+* https://help.cricut.com/hc/en-us/articles/360011505353-Safety-Documentation
 
 
-## Contact information
-Email: chjoshi@arizona.edu
-
-Blue sky: https://bsky.app/profile/chjoshi.bsky.social
+ 

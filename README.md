@@ -9,11 +9,11 @@ Hope you find these files useful!
 
 ## **Overview of the folders**
 
-laser-cutting-files- This contains Adobe illustrator files for laser cutting. I have also put photos of the plexiglass mazes (thickness= 1/8 inch) that I made using these files using an Epilog laser cutting machine at the CATalyst studios, University of Arizona library.
+laser-cutting-files- This contains Adobe illustrator files ( .ai files) for laser cutting. I have also put photos ( .jpg files) of the plexiglass mazes (thickness= 1/8 inch) that I made using these files using an Epilog laser cutting machine at the CATalyst studios, University of Arizona library.
 
-cricut-files- This folder has SVG (vector) files for cricut machine. I have used more than one cricut machine, so these files should ideally work across all cricut machines.
+cricut-files- This folder has SVG vector files ( .svg files) for cricut machine. I have used more than one cricut machine, so these files should ideally work across all cricut machines.
 
-pdf-files- This folder has pdf copies of the above files. 
+pdf-files- This folder has pdf copies of the above files ( .pdf files). 
 
 ## **Important notes about the files**
 * The stroke width (i.e., the line width) used for Adobe Illustrator files here is 0.072 pt. Typically, all laser cutting machines have a threshold stroke width, below which they cut the desired shape and above which they engrave (and therefore do not cut) the shape into the material. So, do check that stroke width for your machine and adjust that stroke width accordingly before proceeding. The Adobe Illustrator files are editable. 
